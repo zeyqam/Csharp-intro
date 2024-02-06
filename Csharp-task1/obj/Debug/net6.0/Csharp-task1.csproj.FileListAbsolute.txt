@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\bin\Debug\net6.0\Csharp-task1.exe
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\bin\Debug\net6.0\Csharp-task1.deps.json
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\bin\Debug\net6.0\Csharp-task1.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\bin\Debug\net6.0\Csharp-task1.dll
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\bin\Debug\net6.0\Csharp-task1.pdb
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\obj\Debug\net6.0\Csharp-task1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\obj\Debug\net6.0\Csharp-task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\obj\Debug\net6.0\Csharp-task1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\obj\Debug\net6.0\Csharp-task1.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\obj\Debug\net6.0\Csharp-task1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\obj\Debug\net6.0\Csharp-task1.dll
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\obj\Debug\net6.0\refint\Csharp-task1.dll
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\obj\Debug\net6.0\Csharp-task1.pdb
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\obj\Debug\net6.0\Csharp-task1.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp-task1\Csharp-task1\obj\Debug\net6.0\ref\Csharp-task1.dll
